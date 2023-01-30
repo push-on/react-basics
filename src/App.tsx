@@ -1,5 +1,11 @@
+import { Card } from "./lib/Card";
+import { Navbar } from "./lib/Navbar";
+
 export const App = () => {
   return (
-    <div>App</div>
+    <>
+      <Navbar />
+      <Card />
+    </>
   );
 };
