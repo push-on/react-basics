@@ -1,11 +1,6 @@
-export const data = () => {
-  return (
-    <div>data</div>
-  );
-};
 
-/*
-[
+
+const feedbackData = [
   {
     "id": 1,
     "rating": 5,
@@ -56,5 +51,6 @@ export const data = () => {
     "rating": 1,
     "text": "It's horrible."
   }
-]
-*/
+];
+
+export default feedbackData;
