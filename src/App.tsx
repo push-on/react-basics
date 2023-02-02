@@ -9,7 +9,7 @@ export const App = () => {
   return (
     <>
       <Navbar />
-      <Card fb={feedback} />
+      <Card feedback={feedback} />
     </>
   );
 };
