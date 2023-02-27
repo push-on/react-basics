@@ -1,129 +1,134 @@
 # 🔵 React Basics in typescript
+**Best React Libraries to Use in 2022**
 
-# React Resources
+[Resource](https://www.reddit.com/r/reactjs/search?q=flair_name%3A%22Resource%22&restrict_sr=1)
 
-STARTERS & FRAMEWORKS
+Soon we'll start a new project and I've been doing some research about which libraries to use. I've made a list and decided to share it here in case that it helps other React devs as well.
 
-Starter kit: Vite or Create React App/Craco with TypeScript
+I tried to lower down the choices to a maximum of 3, so I'm not adding every library out there. Please feel free to make additional suggestions or tell if you don't agree with a choice.
 
-Boilerplate: Vite Templates
+**STARTERS & FRAMEWORKS**
 
-SSR/SSG: Next.js or Remix or T3
+**Starter kit:** [Vite](https://vitejs.dev/) or [Create React App](https://create-react-app.dev/)/[Craco](https://github.com/dilanx/craco) with TypeScript
 
-Best practices: Bulletproof React
+**Boilerplate:** [Vite Templates](https://github.com/vitejs/awesome-vite)
 
-STYLING
+**SSR/SSG:** [Next.js](https://nextjs.org/) or [Remix](https://remix.run/) or [T3](https://create.t3.gg/)
 
-CSS modules: Sass or PostCSS
+**Best practices:** [Bulletproof React](https://github.com/alan2207/bulletproof-react)
 
-CSS-in-JS: Emotion or Stiches or Linaria
+**STYLING**
 
-CSS utils: Autoprefixer, Clsx, React-responsive, React-device-detect
+**CSS modules:** [Sass](https://sass-lang.com/) or [PostCSS](https://postcss.org/)
 
-CSS framework: Tailwind CSS
+**CSS-in-JS:** [Emotion](https://emotion.sh/docs/introduction) or [Stiches](https://github.com/stitchesjs/stitches) or [Linaria](https://github.com/callstack/linaria)
 
-COMPONENTS
+**CSS utils:** [Autoprefixer](https://github.com/postcss/autoprefixer), [Clsx](https://github.com/lukeed/clsx), [React-responsive](https://github.com/yocontra/react-responsive), [React-device-detect](https://github.com/duskload/react-device-detect)
 
-Styled component library: Mantine or Chakra UI or MUI
+**CSS framework:** [Tailwind CSS](https://tailwindcss.com/)
 
-Unstyled component library: Radix UI or Headless UI or React Aria
+**COMPONENTS**
 
-Component tooling: Storybook or Ladle
+**Styled component library:** [Mantine](https://mantine.dev/) or [Chakra UI](https://chakra-ui.com/) or [MUI](https://mui.com/)
 
-ESSENTIALS
+**Unstyled** **component library:** [Radix UI](https://www.radix-ui.com/) or [Headless UI](https://headlessui.com/) or [React Aria](https://react-spectrum.adobe.com/react-aria/)
 
-Data fetching: React Query/Axios or SWR or RTK Query (If using Redux)
+**Component tooling:** [Storybook](https://storybook.js.org/) or [Ladle](https://ladle.dev/)
 
-Routing: React Router or Reach Router
+**ESSENTIALS**
 
-Internationalization: React-i18next or FormatJS Intl, i18next-browser-languagedetector
+**Data fetching:** [React Query](https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/)/[Axios](https://github.com/axios/axios) or [SWR](https://swr.vercel.app/) or [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) (If using Redux)
 
-Authentication: Auth0, React-query-auth, Redux-auth-wrapper
+**Routing:** [React Router](https://reactrouter.com/) or [Reach Router](https://github.com/reach/router)
 
-STATE MANAGEMENT
+**Internationalization:** [React-i18next](https://react.i18next.com/) or [FormatJS Intl](https://formatjs.io/docs/intl/), i18next-browser-languagedetector
 
-Flux pattern (Large apps): Zustand or Redux Toolkit
+**Authentication:** [Auth0](https://github.com/auth0/auth0-react), [React-query-auth](https://github.com/alan2207/react-query-auth), [Redux-auth-wrapper](https://github.com/mjrussell/redux-auth-wrapper)
 
-Atomic pattern (Mid-large apps): Jotai or Recoil or useContext/useState
+**STATE MANAGEMENT**
 
-Proxy pattern (Small apps): Valtio or Mobx
+**Flux pattern (Large apps):** [Zustand](https://github.com/pmndrs/zustand) or [Redux Toolkit](https://redux-toolkit.js.org/)
 
-FORMS
+**Atomic pattern (Mid-large apps):** [Jotai](https://jotai.org/) or [Recoil](https://recoiljs.org/) or useContext/useState
 
-Form: React Hook Form
+**Proxy pattern (Small apps):** [Valtio](https://github.com/pmndrs/valtio) or [Mobx](https://mobx.js.org/README.html)
 
-Validation: Yup or Zod, hookform/resolvers
+**FORMS**
 
-Input: React IMask, React-number-format, React Credit Cards
+**Form:** [React Hook Form](https://react-hook-form.com/)
 
-PACKAGE MANAGER
+**Validation:** [Yup](https://github.com/jquense/yup) or [Zod](https://github.com/colinhacks/zod), hookform/resolvers
 
-Package manager: Yarn or Pnpm, Npm-run-all
+**Input:** [React IMask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/react-imask), [React-number-format](https://github.com/s-yadav/react-number-format), [React Credit Cards](https://github.com/amaroteam/react-credit-cards)
 
-Git hooks: Husky or Pre-commit, Lint-staged
+**PACKAGE MANAGER**
 
-LINTING & FORMATTING
+**Package manager:** [Yarn](https://yarnpkg.com/) or [Pnpm](https://pnpm.io/), [Npm-run-all](https://github.com/mysticatea/npm-run-all)
 
-Linting: ESlint/Eslint-plugin-react or Eslint-config-airbnb, Stylelint
+**Git hooks:** [Husky](https://github.com/typicode/husky) or [Pre-commit,](https://pre-commit.com/) [Lint-staged](https://github.com/okonet/lint-staged)
 
-Formatting: Prettier, Eslint-plugin-prettier, Eslint-config-prettier
+**LINTING & FORMATTING**
 
-TESTING
+**Linting:** [ESlint](https://eslint.org/)/[Eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react) or [Eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb), [Stylelint](https://stylelint.io/)
 
-Unit: Jest or Vitest
+**Formatting:** [Prettier](https://prettier.io/), [Eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier), [Eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
 
-Integration: React Testing Library or Enzyme
+**TESTING**
 
-E2E: Playwright or Cypress
+**Unit:** [Jest](https://jestjs.io/) or [Vitest](https://vitest.dev/)
 
-UPLOAD
+**Integration:** [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) or [Enzyme](https://enzymejs.github.io/enzyme/)
 
-File upload: Filepond or Uppy
+**E2E:** [Playwright](https://playwright.dev/) or [Cypress](https://github.com/cypress-io/cypress)
 
-Drag & Drop: React DnD or React-dropzone or Dnd-kit
+**UPLOAD**
 
-VISUALS
+**File upload:** [Filepond](https://pqina.nl/filepond/) or [Uppy](https://uppy.io/)
 
-Chart: Recharts or Visx
+**Drag & Drop:** [React DnD](https://react-dnd.github.io/react-dnd/about) or [React-dropzone](https://react-dropzone.js.org/) or [Dnd-kit](https://dndkit.com/)
 
-Animation: Framer-motion, tsParticles
+**VISUALS**
 
-3D: React-three-fiber
+**Chart:** [Recharts](https://recharts.org/) or [Visx](https://github.com/airbnb/visx)
 
-Video player: React-player
+**Animation:** [Framer-motion](https://www.framer.com/motion/), [tsParticles](https://github.com/matteobruni/tsparticles)
 
-Carousel: Swiper
+**3D:** [React-three-fiber](https://github.com/pmndrs/react-three-fiber)
 
-OTHER
+**Video player:** [React-player](https://github.com/cookpete/react-player)
 
-Hooks: React-use, React-hanger, React Recipes, React hookedUp
+**Carousel:** [Swiper](https://github.com/nolimits4web/swiper)
 
-Head manager: React-helmet-async
+**OTHER**
 
-Error handling: React-error-boundary
+**Hooks:** [React-use](https://github.com/streamich/react-use), [React-hanger](https://github.com/kitze/react-hanger), [React Recipes](https://github.com/craig1123/react-recipes), [React hookedUp](https://github.com/zakariaharti/react-hookedup)
 
-Polyfill: React-app-polyfill, ES6-Promise
+**Head manager:** [React-helmet-async](https://github.com/staylor/react-helmet-async)
 
-Date: Date-fns or Day.js
+**Error handling:** [React-error-boundary](https://github.com/bvaughn/react-error-boundary)
 
-Notification/Toast: Notistack, React-toastify or React-hot-toast
+**Polyfill****:** [React-app-polyfill](https://github.com/facebook/create-react-app/tree/master/packages/react-app-polyfill), [ES6-Promise](https://github.com/stefanpenner/es6-promise)
 
-Positioning: Floating UI
+**Date:** [Date-fns](https://date-fns.org/) or [Day.js](https://day.js.org/)
 
-Modal: React-modal
+**Notification/Toast:** [Notistack](https://github.com/iamhosseindhv/notistack), [React-toastify](https://github.com/fkhadra/react-toastify) or [React-hot-toast](https://react-hot-toast.com/)
 
-Table: React-table
+**Positioning:** [Floating UI](https://floating-ui.com/)
 
-ID/QR generator: Nano ID, React-qr-code
+**Modal:** [React-modal](https://github.com/reactjs/react-modal)
 
-Rich text editor: Draft.js
+**Table:** [React-table](https://tanstack.com/table/v7/)
 
-Markdown: Marked
+**ID/QR generator:** [Nano ID](https://github.com/ai/nanoid), [React-qr\-code](https://github.com/rosskhanas/react-qr-code)
 
-Timer: Use-timer
+**Rich text editor:** [Draft.js](https://draftjs.org/)
 
-Calendar: React-calendar
+**Markdown:** [Marked](https://github.com/markedjs/marked)
 
-PDF: React-pdf/renderer, React-pdf
+**Timer:** [Use-timer](https://github.com/thibaultboursier/use-timer)
 
-Misc utils: Lodash-es, Uuidv4, Jsonwebtoken, Fast-memoize, DOMPurify
+**Calendar:** [React-calendar](https://github.com/wojtekmaj/react-calendar)
+
+**PDF:** React-pdf/renderer, React-pdf
+
+**Misc** **utils:** Lodash\-es, Uuidv4, Jsonwebtoken, Fast-memoize, DOMPurify
