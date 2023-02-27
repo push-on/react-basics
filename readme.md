@@ -3,7 +3,7 @@
 
 # [Resource](https://www.reddit.com/r/reactjs/search?q=flair_name%3A%22Resource%22&restrict_sr=1)
 
-**STARTERS & FRAMEWORKS**
+## **STARTERS & FRAMEWORKS**
 
 **Starter kit:** [Vite](https://vitejs.dev/) or [Create React App](https://create-react-app.dev/)/[Craco](https://github.com/dilanx/craco) with TypeScript
 
@@ -13,7 +13,7 @@
 
 **Best practices:** [Bulletproof React](https://github.com/alan2207/bulletproof-react)
 
-**STYLING**
+## **STYLING**
 
 **CSS modules:** [Sass](https://sass-lang.com/) or [PostCSS](https://postcss.org/)
 
@@ -23,7 +23,7 @@
 
 **CSS framework:** [Tailwind CSS](https://tailwindcss.com/)
 
-**COMPONENTS**
+## **COMPONENTS**
 
 **Styled component library:** [Mantine](https://mantine.dev/) or [Chakra UI](https://chakra-ui.com/) or [MUI](https://mui.com/)
 
@@ -31,7 +31,7 @@
 
 **Component tooling:** [Storybook](https://storybook.js.org/) or [Ladle](https://ladle.dev/)
 
-**ESSENTIALS**
+## **ESSENTIALS**
 
 **Data fetching:** [React Query](https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/)/[Axios](https://github.com/axios/axios) or [SWR](https://swr.vercel.app/) or [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) (If using Redux)
 
@@ -41,7 +41,7 @@
 
 **Authentication:** [Auth0](https://github.com/auth0/auth0-react), [React-query-auth](https://github.com/alan2207/react-query-auth), [Redux-auth-wrapper](https://github.com/mjrussell/redux-auth-wrapper)
 
-**STATE MANAGEMENT**
+## **STATE MANAGEMENT**
 
 **Flux pattern (Large apps):** [Zustand](https://github.com/pmndrs/zustand) or [Redux Toolkit](https://redux-toolkit.js.org/)
 
@@ -49,7 +49,7 @@
 
 **Proxy pattern (Small apps):** [Valtio](https://github.com/pmndrs/valtio) or [Mobx](https://mobx.js.org/README.html)
 
-**FORMS**
+## **FORMS**
 
 **Form:** [React Hook Form](https://react-hook-form.com/)
 
@@ -57,19 +57,19 @@
 
 **Input:** [React IMask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/react-imask), [React-number-format](https://github.com/s-yadav/react-number-format), [React Credit Cards](https://github.com/amaroteam/react-credit-cards)
 
-**PACKAGE MANAGER**
+## **PACKAGE MANAGER**
 
 **Package manager:** [Yarn](https://yarnpkg.com/) or [Pnpm](https://pnpm.io/), [Npm-run-all](https://github.com/mysticatea/npm-run-all)
 
 **Git hooks:** [Husky](https://github.com/typicode/husky) or [Pre-commit,](https://pre-commit.com/) [Lint-staged](https://github.com/okonet/lint-staged)
 
-**LINTING & FORMATTING**
+## **LINTING & FORMATTING**
 
 **Linting:** [ESlint](https://eslint.org/)/[Eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react) or [Eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb), [Stylelint](https://stylelint.io/)
 
 **Formatting:** [Prettier](https://prettier.io/), [Eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier), [Eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
 
-**TESTING**
+## **TESTING**
 
 **Unit:** [Jest](https://jestjs.io/) or [Vitest](https://vitest.dev/)
 
@@ -77,13 +77,13 @@
 
 **E2E:** [Playwright](https://playwright.dev/) or [Cypress](https://github.com/cypress-io/cypress)
 
-**UPLOAD**
+## **UPLOAD**
 
 **File upload:** [Filepond](https://pqina.nl/filepond/) or [Uppy](https://uppy.io/)
 
 **Drag & Drop:** [React DnD](https://react-dnd.github.io/react-dnd/about) or [React-dropzone](https://react-dropzone.js.org/) or [Dnd-kit](https://dndkit.com/)
 
-**VISUALS**
+## **VISUALS**
 
 **Chart:** [Recharts](https://recharts.org/) or [Visx](https://github.com/airbnb/visx)
 
@@ -95,7 +95,7 @@
 
 **Carousel:** [Swiper](https://github.com/nolimits4web/swiper)
 
-**OTHER**
+## **OTHER**
 
 **Hooks:** [React-use](https://github.com/streamich/react-use), [React-hanger](https://github.com/kitze/react-hanger), [React Recipes](https://github.com/craig1123/react-recipes), [React hookedUp](https://github.com/zakariaharti/react-hookedup)
 
