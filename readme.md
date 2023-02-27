@@ -1,11 +1,7 @@
 # 🔵 React Basics in typescript
 **Best React Libraries to Use in 2022**
 
-[Resource](https://www.reddit.com/r/reactjs/search?q=flair_name%3A%22Resource%22&restrict_sr=1)
-
-Soon we'll start a new project and I've been doing some research about which libraries to use. I've made a list and decided to share it here in case that it helps other React devs as well.
-
-I tried to lower down the choices to a maximum of 3, so I'm not adding every library out there. Please feel free to make additional suggestions or tell if you don't agree with a choice.
+# [Resource](https://www.reddit.com/r/reactjs/search?q=flair_name%3A%22Resource%22&restrict_sr=1)
 
 **STARTERS & FRAMEWORKS**
 
